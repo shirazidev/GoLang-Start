@@ -1,0 +1,12 @@
+//package session_2_1
+//
+////func OLD() {
+//	args := os.Args
+//	if len(args) < 2 {
+//		//fmt.Println("Error: Enter your name!")
+//		//os.Exit(-1)
+//		log.Fatalf("there is no input - len of args %d", len(args))
+//	}
+//	name := strings.ToUpper(args[1])
+//	fmt.Println("Hello", name)
+//}
